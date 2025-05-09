@@ -1,0 +1,189 @@
+
+body {
+    background-color: rgba(10, 104, 56, 0.421);
+    min-height: 300vh;
+}
+
+
+.mojadi-atas{
+    color: aliceblue;
+}
+
+
+.nav {
+    background-color: rgba(12, 111, 58, 0.997);
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;  
+}
+
+.deskripsi {
+    margin-top: 5px;
+    justify-items: center;
+}
+
+.paragraf-des {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+}
+
+
+.foto-ne {
+    margin-top: 100PX;
+}
+
+.banner-luar {
+    margin-top: 100px;
+}
+
+.gambar-banner {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.foto-banner {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+}
+
+.dua-produk {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.dua-produk-luar {
+    margin-top: 50px;
+    display: flex;
+}
+
+.card {
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.211);
+}
+
+.card-text-dalam {
+    margin-top: 39px;
+
+}
+
+
+.vidio {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.vidio-dalem {
+    width: 800px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.judul-vidio {
+    text-shadow: 0 5PX 5px rgba(245, 245, 245, 0.755);
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.p-vidio {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-adan {
+    margin-top: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-des {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.adan-tombol {
+    justify-content: center;
+    display: flex;
+}
+
+.card-tiga {
+    margin-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+.luar-tiga {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    padding-right: 50px;
+}
+
+
+.pemilik {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.hubungi {
+    color: rgb(21, 125, 37);
+    text-shadow: 0 0 10px #00ffcc;
+}
+
+.kenapa-mojadi {
+    margin-top: 100px;
+    justify-items: center;
+    align-items: center;
+}
+
+.mojadii {
+    text-align: center;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.produk-luar-ne {
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+    width: 100%;
+    height: auto;
+    gap: 80px;
+}
+
+.judul-produk {
+    background-color: aliceblue;
+    width: auto;
+    height: auto;
+    
+}
+
+.des-produk {
+    background-color: aliceblue;
+}
+
+
+.produk-foto {
+    width: 400px;
+    height: auto;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.265);
+}
